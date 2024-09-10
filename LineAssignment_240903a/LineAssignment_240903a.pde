@@ -4,8 +4,10 @@ void setup(){
 }
 // All Vertical lines 
 void draw(){
+  
   background(#FF0505);
   strokeWeight(5);
+  
   line(50,0,50,250);
   line(100,0,100,50);
   line(320,300,320,100);
@@ -23,7 +25,9 @@ void draw(){
   line(270,100,270,250);
   line(380,50,380,250);
   line(440,200,440,100);
-// All Horizontal Lines   
+  
+// All Horizontal Lines
+
   line(0,499,440,499);  
   line(50,350,240,350);  
   line(440,330,380,330); 
@@ -37,6 +41,7 @@ void draw(){
   line(0,0,50,0);
   line(0,300,320,300);
   line(50,250,270,250);
+  
   if(frameCount == 1){
     save("LineAssignment_2024-09-03.png");
   }
