@@ -11,8 +11,8 @@ void draw(){
   //Kirby's Face 
   stroke(#761414);
   strokeWeight(15);
-    fill(pink);
   pink = color(#efb6d4);
+  fill(pink);
   circle(width/2,height/2,450);
   fill(pink);
   
@@ -26,7 +26,7 @@ void draw(){
   
   //Kirby's Right Eye
   strokeWeight(5);
-    fill(black);
+  fill(black);
   ellipse(306,187,55,133);
   
   
@@ -45,7 +45,7 @@ void draw(){
   
   
   //Kirby's Right Blush
-   fill(#CB0E0E);
+  fill(#CB0E0E);
   ellipse(376,308,89,30);
   
   
@@ -53,7 +53,7 @@ void draw(){
   line(210,292,305,293);
   curve(87, -198, 210, 294, 305, 295, 219, 109);
   
-  if(frameCount ==1){
+  if(frameCount ==10){
     save("Shape Assignment_2024-09-05.png");
   }
 }
