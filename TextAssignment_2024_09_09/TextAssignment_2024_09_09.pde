@@ -27,7 +27,6 @@ void draw(){
   
   fill(black);
   textAlign(CENTER,BOTTOM);
-  
   text("x y m b i t a c k k j",330,80);
   text("k x f y o f a s o k d",330,125);
   text("s x t m t t c b m w h",330,168);
