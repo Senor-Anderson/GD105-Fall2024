@@ -19,7 +19,7 @@ void draw(){
   
   //Kirby's Left Eye
   strokeWeight(5);
-    black = color(#000000);
+  black = color(#000000);
   fill(black);
   ellipse(178,187,53,133);
 
