@@ -39,7 +39,13 @@ void draw(){
   text("c b s l m q x t l r a",330,487);
   
   
+  //Word Bracket for Searchword Puzzle
+  line(200,531,200,638);
+  text("Words",125,609);
+  
   //Word's for Searchword Puzzle
+  
+  
   
 }
 
