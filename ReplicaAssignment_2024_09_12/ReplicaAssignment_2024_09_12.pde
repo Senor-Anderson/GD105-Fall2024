@@ -42,7 +42,7 @@ void draw(){
  line(228,180,-3,180);
  
 if(frameCount == 1){
-  save("Replica Assignment2024-09-12.png");
+  save("Replica_Assignment_2024-09-12.png");
 }
  
  
