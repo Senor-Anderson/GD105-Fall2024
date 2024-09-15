@@ -12,6 +12,7 @@ void setup(){
 }
 
 void draw(){
+  
  background(#FFFFFF);
  red =color(#F50F0F);
  blue = color(#0F2FF5);
