@@ -53,6 +53,9 @@ void draw(){
     translate(326, 100);
     pop();
   
+  //https://stackoverflow.com/questions/53799599/how-to-draw-a-star-shape-in-processingjs
+  //(Taught me the to make the Star)
+  
   if(frameCount == 1){
     save("PersonalAssignment_2024-09-14.png");
   }
