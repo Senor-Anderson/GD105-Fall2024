@@ -43,31 +43,31 @@ void draw(){
   
   image(Romeo1,228,164);
   
-  image(Tiny1,0,0);
+  image(Tiny1,535,0);
   
-  image(Scrappy1,0,0);
+  image(Scrappy1,597,204);
   
   // The Numbers 2 
   
-  image(Tiny2,0,0);
+  image(Tiny2,703,632);
   
-  image(Scrappy2,0,0);
+  image(Scrappy2,304,-69);
   
   // The Numbers 3 
   
-  image(Tiny3,0,0);
+  image(Tiny3,259,632);
   
-  image(Scrappy3,0,0);
+  image(Scrappy3,-115,-53);
   
   //The Numbers 4
   
-  image(Tiny4,0,0);
+  image(Tiny4,-219,332);
   
-  image(Scrappy4,0,0);
+  image(Scrappy4,422,225);
   
   //The Numbers 5 
   
-  image(Tiny5,0,0);
+  image(Tiny5,-65,660);
   
   
 }
