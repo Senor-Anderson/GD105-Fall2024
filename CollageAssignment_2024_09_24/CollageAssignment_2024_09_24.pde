@@ -69,5 +69,9 @@ void draw(){
   
   image(Tiny5,-65,660);
   
+  if(frameCount==1){
+    save("CollageAssignment_2024-09-24.png");
+  }
+  
   
 }
